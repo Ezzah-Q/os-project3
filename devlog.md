@@ -22,4 +22,11 @@
 - for the main class I plan on implementing a switch statement for the different commands
 - I won't write out the methods for the commands just yet, maybe pseudocode them
 
-  
+11-27-25 5:35 pm
+- after session
+- ended up roughly coding the command processing
+- still need to implement the command logic 
+- need to think about how to create a b-tree
+  - I am guessing I need to section off an index file into the 512 blocks?
+  - I will do some thinking and figure out to implement b tree in next session
+  - I will also write pseudocode for it
