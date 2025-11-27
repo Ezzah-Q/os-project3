@@ -16,5 +16,10 @@
   - I will also have another class for dealing with the tree structure
   - and another class that sets up each tree node
 
+11-27-25 5:08 pm
+- before session
+- I plan on mapping the program out, maybe create pseudocode
+- for the main class I plan on implementing a switch statement for the different commands
+- I won't write out the methods for the commands just yet, maybe pseudocode them
 
   
