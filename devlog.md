@@ -42,3 +42,18 @@
 - for today's session I will try to map out the rest of the program
 - maybe write pseudocode for the class methods
 - if I have time I will begin to write actual code
+
+11-28-25 11:42 pm
+- after session
+- used Files and Paths.get() to get file path to see if a file does or doesnt exist
+- will use bytebuffer to create the 512 byte chunks in the file
+  - use its .allocate(), .put(), etc functions
+- for insert method I passed random access file instance as a parameter
+  - so Btree class is using the same instance
+- Btree class constructor will instantly read the files header so it can insert new node
+  - use .seek() and .read
+- today's session I mapped out rest of the program
+- Started pseudocode/actual code for the main program
+  - more specifically worked on create and insert methods for main and Btree class instantiation logic
+- need to figure out how to read header from file
+- next session I plan to continue working on inserting a node logic
