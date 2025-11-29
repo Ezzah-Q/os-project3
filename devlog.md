@@ -76,3 +76,10 @@
 - for splitting the root, will use subList method to get portion of list
 - overall, for this session I continued insert method, adding helper methods such as splitRoot and insertNormally
 - next session I will finish method insertNormally
+
+11-29-25 4:49 pm
+- before session
+- I will continue to work on insert method
+- I need to write code for handling an insertion in a node with no children (easy)
+  - and the ace for a node with children (recursive call)
+  
