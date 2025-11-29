@@ -30,3 +30,15 @@
   - I am guessing I need to section off an index file into the 512 blocks?
   - I will do some thinking and figure out to implement b tree in next session
   - I will also write pseudocode for it
+
+11-28-25 9:13 pm
+- before session
+- I researched a bit more on how I would make a btree
+  - create a file using Java's RandomAccessFile and create a header
+    - this is for create command
+  - on insertion, we open that file, read header, and start creating a btree
+  - in the class for b-tree, I will have to create helper methods that can be called from the main class
+    - these helper methods will deal with the actual insertion etc of the tree, and i will call b-treenode class here
+- for today's session I will try to map out the rest of the program
+- maybe write pseudocode for the class methods
+- if I have time I will begin to write actual code
