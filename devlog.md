@@ -62,3 +62,17 @@
 - before session
 - I realized that a Java int is only 4 Bytes, I will switch to using long data type
 - today I will continue to work on create and insert methods and try to implement the node class
+
+11-29-25 2:44 pm
+- after session
+- make sure input command turned to lowercase before processing
+- to read the magic number from the header decide to create a ByteArray and use readFully() to read all 8 bytes from file header
+- if I make changes to the tree (like add a new node) the header would change
+  - I wrote a method that writes the changed header back to the file
+- added another insert method in the node class to insert key and value in node's arrays
+- in order to read information from a root, I need another method that reads the node and returns that instance
+- searched up how to insert a key on full node
+- created another method for splitting root and inserting a node normally since a lot of repetition would than happen in insert method
+- for splitting the root, will use subList method to get portion of list
+- overall, for this session I continued insert method, adding helper methods such as splitRoot and insertNormally
+- next session I will finish method insertNormally
