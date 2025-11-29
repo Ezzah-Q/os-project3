@@ -57,3 +57,8 @@
   - more specifically worked on create and insert methods for main and Btree class instantiation logic
 - need to figure out how to read header from file
 - next session I plan to continue working on inserting a node logic
+
+11-29-25 10:52 am
+- before session
+- I realized that a Java int is only 4 Bytes, I will switch to using long data type
+- today I will continue to work on create and insert methods and try to implement the node class
