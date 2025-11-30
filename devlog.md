@@ -83,3 +83,10 @@
 - I need to write code for handling an insertion in a node with no children (easy)
   - and the ace for a node with children (recursive call)
   
+11-29-25 6:09 pm
+- after session
+- I realized that just like how I have a read node method, I should probably have a method that write the inserted node back on file
+  - for this, I added a write node method in the node class
+  - I'll call it for each changed node
+- this session I finished the insert, insert normally, and split root methods
+- next session I will work on the search, print, extract etc methods
