@@ -90,3 +90,9 @@
   - I'll call it for each changed node
 - this session I finished the insert, insert normally, and split root methods
 - next session I will work on the search, print, extract etc methods
+
+11-30-25 12:08 pm
+- before session
+- today I am going to write the rest of the methods (search, print etc)
+- hopefully I can finish and turn in the code today
+
