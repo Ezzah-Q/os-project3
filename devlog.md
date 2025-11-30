@@ -96,3 +96,14 @@
 - today I am going to write the rest of the methods (search, print etc)
 - hopefully I can finish and turn in the code today
 
+11-30-25 3:49 pm
+- after session
+- for loading in info from a csv file I am going to use BufferedReader, which is the usual approach for csv parsing
+- for outputting text to csv file I will use FileWriter
+- for search method i was able to get away with a simple while loop, not sure I can do that for print
+  - will have to use recursion
+- finished the search, extract, print, and load methods
+- testing program and program seems to run well
+- also runs well on utd cs1 machine
+- will write readme in next session
+
